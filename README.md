@@ -1,4 +1,5 @@
-# RideTogether 🏍️💨
+# RideTogether 
+
 > Real-Time Group Ride Coordination Platform
 
 RideTogether is a full-stack web application designed for group motorcyclists and cyclists traveling together. It solves the critical problem of group separation, unexpected stops, route deviations, and emergencies by providing real-time rider tracking on a shared map, live status broadcasting, and separation alerts.
