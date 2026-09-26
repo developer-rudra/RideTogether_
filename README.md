@@ -95,8 +95,3 @@ npm run server:dev
 # Terminal 2: Frontend App (Port 5173)
 npm run client
 ```
-
----
-
-## 🧪 System Status & Phase 1 Verification
-Visit `http://localhost:5173` to view the initial system health check dashboard verifying REST API and Socket.IO connectivity.
