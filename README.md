@@ -32,6 +32,8 @@ RideTogether provides a real-time group ride coordination workspace:
 ---
 
 ## 🏗️ Architecture & System Design
+![Uploading diagram (2).png…]()
+
 
 ```
                              +-----------------------------------+
